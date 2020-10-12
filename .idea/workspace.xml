@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="" />
+    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="Demo Up Code">
+      <change afterPath="$PROJECT_DIR$/BTVN 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài Tập.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs =))/my-cv-in-english-1-728.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +25,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iZpYjLI2c72XebPE2ym1jwdSwx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,24 +69,57 @@
       <option name="presentableId" value="Default" />
       <updated>1602125025989</updated>
       <workItem from="1602125029965" duration="5346000" />
+      <workItem from="1602131128740" duration="1649000" />
+      <workItem from="1602174244939" duration="1412000" />
+      <workItem from="1602255577352" duration="45000" />
+      <workItem from="1602509802692" duration="6225000" />
     </task>
+    <task id="LOCAL-00001" summary="Demo Up Code">
+      <created>1602131181585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131181585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Demo Up Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo Up Code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602125094203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602125094203" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602131189669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602131189669" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1602129745952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602129745952" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602131005471">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602514374672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602131005471" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602514374672" />
   </component>
 </project>
