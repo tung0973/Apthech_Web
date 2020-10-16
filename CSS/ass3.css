@@ -1,0 +1,35 @@
+body{
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccessstory.com%2Fcompanies%2Fzara&psig=AOvVaw1nshLOFJtWJj94lkmJR_An&ust=1602951801784000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJig4PfCuewCFQAAAAAdAAAAABAg") ;
+    margin: 0px ;
+    font-size: 14px;
+    font-family: sans-serif;
+    padding: 40px;
+
+}
+#header{
+    background-color: wheat;
+    margin: 5px;
+    padding:20px;
+    text-align: left;
+}
+.item{
+    box-sizing: border-box;
+    width: 250px;
+    height: 550px;
+    background-color: #F1F1F1;
+    float: left;
+    margin: 20px;
+    text-align: center;
+
+}
+.item p {
+    text-align: center;
+    font-size: larger;
+}
+
+.more {
+    background-color: black;
+    color: red;
+    padding: 5px;
+    margin-bottom: 0px ;
+}

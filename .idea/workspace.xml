@@ -11,30 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="Lab S2">
-      <change afterPath="$PROJECT_DIR$/ASS2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/labs3.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/tryhard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/Ava.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/Hinh-Nen-Trai-Bo-DT-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/b_BLOCK-2-0-PROF-312085-reld510a1d3 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/cooking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/download (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/labs3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/my-cv-in-english-1-728.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LABS3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabS3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TryHard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ass3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ass3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/balo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/model6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/nude.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/zara.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imgs =))/download (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imgs =))/download (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imgs =))/download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imgs =))/my-cv-in-english-1-728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/tryhard.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/tryhard.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +85,8 @@
       <workItem from="1602255577352" duration="45000" />
       <workItem from="1602509802692" duration="24094000" />
       <workItem from="1602643588995" duration="107000" />
-      <workItem from="1602815007857" duration="5252000" />
+      <workItem from="1602815007857" duration="5652000" />
+      <workItem from="1602853613304" duration="8287000" />
     </task>
     <task id="LOCAL-00001" summary="Demo Up Code">
       <created>1602131181585</created>
@@ -112,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602516255266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab S2">
+      <created>1602820569703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602820569704</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,10 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602125094203" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602516259761">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602820591484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602516259761" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602820591483" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1602563349049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
