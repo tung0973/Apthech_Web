@@ -10,11 +10,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="Demo Up Code">
-      <change afterPath="$PROJECT_DIR$/BTVN 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài Tập.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs =))/my-cv-in-english-1-728.jpg" afterDir="false" />
+    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="Lab S2">
+      <change afterPath="$PROJECT_DIR$/ASS2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labs3.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/tryhard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/Ava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/Hinh-Nen-Trai-Bo-DT-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/b_BLOCK-2-0-PROF-312085-reld510a1d3 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/cooking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/download (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/labs3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imgs/my-cv-in-english-1-728.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LABS3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabS3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TryHard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs =))/download (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs =))/download (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs =))/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imgs =))/my-cv-in-english-1-728.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +44,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="HTML4 File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,10 +63,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +94,9 @@
       <workItem from="1602131128740" duration="1649000" />
       <workItem from="1602174244939" duration="1412000" />
       <workItem from="1602255577352" duration="45000" />
-      <workItem from="1602509802692" duration="6225000" />
+      <workItem from="1602509802692" duration="24094000" />
+      <workItem from="1602643588995" duration="107000" />
+      <workItem from="1602815007857" duration="5252000" />
     </task>
     <task id="LOCAL-00001" summary="Demo Up Code">
       <created>1602131181585</created>
@@ -81,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602131181585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab S2">
+      <created>1602516255266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516255266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,21 +133,22 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Demo Up Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo Up Code" />
+    <MESSAGE value="Lab S2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab S2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602125094203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602125094203" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602131189669">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602516259761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602131189669" />
-    <state x="339" y="164" key="run.anything.popup" timestamp="1602129745952">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602516259761" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1602563349049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602129745952" />
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602563349049" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602514374672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
