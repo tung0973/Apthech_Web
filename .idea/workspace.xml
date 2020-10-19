@@ -10,20 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="Lab S2">
-      <change afterPath="$PROJECT_DIR$/Ass3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/ass3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/balo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/model6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/nude.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imgs/zara.jpg" afterDir="false" />
+    <list default="true" id="023559ee-f5b3-4d97-949c-1fb91df44320" name="Default Changelist" comment="ASS4">
+      <change afterPath="$PROJECT_DIR$/CSS/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/tryhard.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/tryhard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ass3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ass3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +77,11 @@
       <workItem from="1602509802692" duration="24094000" />
       <workItem from="1602643588995" duration="107000" />
       <workItem from="1602815007857" duration="5652000" />
-      <workItem from="1602853613304" duration="8287000" />
+      <workItem from="1602853613304" duration="8690000" />
+      <workItem from="1602869442440" duration="316000" />
+      <workItem from="1602900328967" duration="9946000" />
+      <workItem from="1602926095870" duration="2327000" />
+      <workItem from="1603110850034" duration="18024000" />
     </task>
     <task id="LOCAL-00001" summary="Demo Up Code">
       <created>1602131181585</created>
@@ -109,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602820569704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ASS4">
+      <created>1602868716862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602868716862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,17 +133,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Demo Up Code" />
     <MESSAGE value="Lab S2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab S2" />
+    <MESSAGE value="ASS4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ASS4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602125094203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602125094203" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602820591484">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602868720913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602820591483" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602868720913" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1602563349049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

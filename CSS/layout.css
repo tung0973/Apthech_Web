@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #aca4a4;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: SansSerif;
+    color: black;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float:left;
+    width:100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float:none;
+}
+.container1{
+    width: 1200px;
+    margin: 0 auto;
+    float:none;
+}
+.content{
+    float:left;
+    width:70%;
+    padding-right: 15px;
+}
+.sidebar{
+    float:left;
+    width:30%;
+    padding-left: 15px;
+}
+/*xong layout*/
+.header{
+    background-color: #928a8a;
+    border-bottom: 1px solid #9f9393;
+    padding:30px 0px ;
+}
+.logo{
+    float:left;
+    width: 30%;
+}
+.top-link{
+    float:right;
+    width:30%;
+}
+
+.top-link li{
+    float: right;
+    margin-left: 30px;
+    list-style: none;
+}
+.nav{
+    background-color: #8f8484;
+    padding:0px;
+
+}
+.container ul{
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+
+.container ul li{
+    float: left;
+    width: 120px;
+    height: 70px;
+    line-height: 70px;
+    position: relative;
+}
+.container ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.container ul li a:hover {
+    background-color: #e7e7e7;
+}
+
+.container .last-item{
+    float: right;
+    margin-right: 0;
+}
+#sub-menu{
+    display: none;
+    position: absolute;
+}
+.container>ul li a:hover #sub-menu{
+    display: block;
+}
+.main{
+    background-image: url("https://cafebiz.cafebizcdn.vn/thumb_w/600/2019/6/5/zr-15597025804671586272902-crop-15597025876881670522665.png");
+    padding-top: 30px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body-content{
+    background-color: #a29797;
+    padding:40px;
+    float: left;
+    width: 100%;
+    line-height: 25px;
+}
+#title{
+    font-size: x-large;
+    padding:10px 0px;
+}
+img{
+    margin: 15px;
+    padding: 20px 0px;
+}
+.block{
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px ;
+
+}
+.block-black{
+    background-color: #353535;
+    color: #b8c1ca;
+    line-height: 20px;
+    font-size: medium;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.body-content a{
+    color: #b8c1ca;
+}
+
+#sup a{
+    display: block;
+    padding: 15px;
+    margin: 15px 0px;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+#sup a:hover{
+    background-color: black;
+}
+
+.table1 {
+    border-spacing: 15px;
+    width: 100%;
+}
+.table1 td{
+    background-color: #b8c1ca;
+    padding: 10px;
+    text-align: center;
+
+}
+.input input{
+    display: block;
+    padding:15px;
+    margin:15px 0px;
+    width: 100%;
+}
+.block input{
+    background-color: #353535;
+    display: block;
+    padding:15px;
+    margin:15px 0px;
+    width: 100%;
+    border: #b8c1ca solid 1px;
+}
+59
